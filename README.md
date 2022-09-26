@@ -1,6 +1,8 @@
 # Sensor_GM_LoRA
-###Sensor Geomagnético LoRa
+### Sensor Geomagnético LoRa
+
 El código funciona y está probado con los siguientes componentes:
+
 -Placa RAK-5005-O [Datasheet](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK5005-O/Datasheet/).
 -Módulo central RAK4631 [Datasheet](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK4631/Datasheet/).
 -Módulo IO RAK13002 [Datasheet](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK13002/Overview/).
